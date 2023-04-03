@@ -2,7 +2,7 @@
 using namespace std;
 
 
-struct mahasiswa
+struct mahasiswa 
 {
     string NIM;
     string nama;
